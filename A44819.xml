@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached on the first of January 1698 in the parish church of St. Nicholas Cole-Abby being a New-Years-gift to the society of Christians united there to worship God in a more solemn manner after the way of the Church of England / by Robert Howson.</title>
+            <author>Howson, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44819</idno>
+            <idno type="STC">Wing H3198</idno>
+            <idno type="STC">ESTC R27121</idno>
+            <idno type="EEBO-CITATION">09657561</idno>
+            <idno type="OCLC">ocm 09657561</idno>
+            <idno type="VID">43928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43928)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached on the first of January 1698 in the parish church of St. Nicholas Cole-Abby being a New-Years-gift to the society of Christians united there to worship God in a more solemn manner after the way of the Church of England / by Robert Howson.</title>
+                  <author>Howson, Robert.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Downing for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  John XIII, 34 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43928:1"/>
+            <pb facs="tcp:43928:1"/>
+            <p>A SERMON PREACHED On the Firſt of <hi>January,</hi> 1698. IN THE Pariſh Church of St. <hi>Nicholas Cole-Abby.</hi> BEING <hi>A New-Years-Gift</hi> To the Society of Chriſtians united there, to Worſhip God in a more Solemn manner, after the way of the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>By <hi>Robert Howſon</hi> Lecturer there; Rector of <hi>Stanford-Deanly</hi> in the County of <hi>Berks,</hi> and Chaplain to the truly Honourable, The Lady Dowager <hi>Seymore,</hi> Baroneſs of <hi>Trowbridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Downing</hi> in <hi>Bartholomew-Cloſe,</hi> for the Author.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43928:2"/>
+            <pb facs="tcp:43928:2"/>
+            <head>To the <hi>Stewards, Collectors,</hi> and the reſt of the <hi>Members</hi> of the <hi>Society</hi> of St. <hi>Nicholas Cole-Abby,</hi> in the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>THE enſuing <hi>Sermon</hi> came to the <hi>Pulpit</hi> by your Deſire, and by the ſame it comes from the <hi>Preſs,</hi> with no Variation, and but with very little Addition.</p>
+            <p>Fine Cadencies of Speech, well clinched Periods, and harangues of Rhetorick, were never my Talent; or if they had, I would have Napkin'd it in the Pulpit, that the <hi>Faith of Chriſtians,</hi> ſhould not be thought to ſtand in Words of <hi>Mans Wiſdom, but in the Power of God:</hi> For which purpoſe, that moſt excellent Prelate and Goſpel Preacher, Arch-Biſhop <hi>Uſher,</hi> laid aſide all his Learning, in Preaching the Goſpel, as appears by his plain and practical Diſcourſes yet <hi>Extant.</hi> And (as I have heard) gave it always in charge to ſuch, on whom he laid Hands to Preach, <hi>to be ſure to remember the Al<g ref="char:EOLhyphen"/>leys,
+<pb facs="tcp:43928:3"/>
+by ſuiting their Sermons to the Capacities of their Hearers.</hi> A courſe that for Thirty Years paſt, I have always found moſt conducing to the great end of <hi>Preaching,</hi> viz. <hi>Turning Men from Darkneſs to Light, and from Satan's Power to God.</hi> And therefore ſhall continue in it, till I am convinc'd that plain Preachers, and plain Hearers, ſhall be as much decried in another World as they are in this.</p>
+            <p>
+               <hi>Gentlemen,</hi> in this Reſpect your <hi>Lines</hi> are faln in a pleaſant place, you have a goodly Heritage, even the Bleſſing of a learned, pious, practical, and ſavory <hi>Miniſtry:</hi> May it be therefore <hi>a Savour of Life unto Life, unto every one of you, and not of Death unto Death unto any,</hi> (for it will certainly be one or the other) is, and ever ſhall be, the Prayer of</p>
+            <closer>
+               <signed>Your Affectionate Friend, And Faithful Servant In the Greateſt Work, ROBERT HOWSON.</signed>
+            </closer>
+            <pb facs="tcp:43928:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:43928:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:43928:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>John XIII. Ver. 34.</hi>
+                  </bibl>
+                  <p>A New Commandment I give unto you, That you Love one another.</p>
+               </q>
+            </epigraph>
+            <p>THere is nothing that doth more conduce to the Good of Mankind, in general, than being good to, and doing good one for another, in par<g ref="char:EOLhyphen"/>ticular.</p>
+            <p>This engages the Affections, and ex<g ref="char:EOLhyphen"/>cites the Endeavours of all: This mono<g ref="char:EOLhyphen"/>polizeth all the Strength and Powers of Men, not only for one another, but alſo for the publick <hi>Communities</hi> and <hi>Societies</hi> of which they are <hi>Members.</hi>
+            </p>
+            <p>This anſwers the End of mens Being in this lower World, and glorifies that Eter<g ref="char:EOLhyphen"/>nal Goodneſs, that is their Being in this Life, and will for ever be their Bleſſedneſs in another.</p>
+            <p>
+               <pb n="2" facs="tcp:43928:5"/>On the contrary, There is nothing doth more directly tend to deſtroy the Souls and Bodies, the Liberties and Pro<g ref="char:EOLhyphen"/>perties of Men, in particular, and the Good of publick Societies, in general, than Selfiſhneſs, Pride, and Covetouſ<g ref="char:EOLhyphen"/>neſs: This ham-ſtrings all juſt Powers, weakens Authority, cuts all the Liga<g ref="char:EOLhyphen"/>ments of the Body Politick, makes every part looſe and independent one upon another, like Bones wier'd in an Anato<g ref="char:EOLhyphen"/>my: And therefore, our Bleſſed Saviour fore-ſeeing how neceſſary this would be in all the Churches of God, to the End of the World, injoins this great Catho<g ref="char:EOLhyphen"/>lick and Chriſtian Duty, <hi>To Love one ano<g ref="char:EOLhyphen"/>ther;</hi> which He calls, <hi>A New Commandment;</hi> that is, the Old Commandment that God gave by Moſes, (<hi>Levit.</hi> 19.18.) re<g ref="char:EOLhyphen"/>newed under the Goſpel Diſpenſation, for which he propoſeth himſelf as an excellent Pattern, ſaying, <hi>As I have Loved you.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:43928:5"/>In ſpeaking to which, I ſhall ſhew,
+<list>
+                  <item>I. <hi>What 'tis to Love another.</hi>
+                  </item>
+                  <item>II. <hi>What are the good Effects of Loving one another, in the Hearts and Lives of good Men.</hi>
+                  </item>
+                  <item>III. <hi>How it makes Men eaſie in and to themſelves, to the Government, and Com<g ref="char:EOLhyphen"/>munion they are Members of in this World.</hi> And,</item>
+                  <item>IV. <hi>How it fits them for the Communion and Bleſſed Society of the glorified Saints in Heaven.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>By Loving one another,</hi> underſtand that Brotherly Love that the Apoſtle commends, <hi>Heb.</hi> 13.1. which is ſuch a Love as Brothers have, or ought to have, one towards another in Nature, who have the ſame Father, and the ſame Mother, from whom they derive their Natural Lives.</p>
+            <p>
+               <hi>Brethren,</hi> we have all the ſame <hi>Father,</hi> which is <hi>God;</hi> and the ſame <hi>Mother,</hi>
+               <pb n="4" facs="tcp:43928:6"/>
+which is our <hi>Church;</hi> and from them we derive our vital Principle of Spiritual Life: And therefore, as they that are Born after the Fleſh, do love one another in a Natural manner; ſo we that are Born after the Spirit, ſhould love one another in a Spiritual manner: For Spirits have their Spiritual Actings and Motions one towards another, as well as Bodies.</p>
+            <p>Where the Appearance is of God's Holineſs in the Hearts and Lives of good Men, it draws out a Spiritual Love to, and delight in them, one towards another. <hi>O my Soul, thou haſt ſaid unto the Lord, Thou art my Lord: my Goodneſs extendeth not unto thee; But to the Saints, and to the Excellent that are in the Earth, in whom is all my delight,</hi> Pſal. 16.2, 3.</p>
+            <p>And as the appearance of Good<g ref="char:EOLhyphen"/>neſs, in good Men, draws them one to another in holy Delight and Love; ſo the Light of the Glory of God, in the Face of Jeſus, draws them all to Chriſt:
+<pb n="5" facs="tcp:43928:6"/>
+               <hi>Becauſe of the ſavour of thy good Ointments, thy Name is poured forth: therefore do the Virgins love thee:</hi> Cant. 1.3. <hi>Draw me, and we will run after thee.</hi> Therefore, ſaith our Bleſſed Saviour, <hi>No Man can come unto me, except the Father draw him,</hi> and the Father draws (and never drives) <hi>by the Cords of a Man, by the Bands of Love,</hi> Hoſea 11.4. diſplaying the Riches of Goſpel-Grace, <hi>viz.</hi> the heigth, and depth, the length, and breadth, of the Love of God in Chriſt: Love in all dimenſions, and all dimenſions in their Abſtract; ſo that as many as look unto Jeſus, till they love Him, and love Him ſo as to obey Him, purely from a Principle of Divine Love implanted in them, by the Miniſtration of the Goſpel, ſhall be Saved by Him.</p>
+            <p>Now, as natural Motion is a ſure ſign of natural Life, ſo theſe ſpiritual Motions of Holy Souls, to deſire after and delight in good Men as ſuch, are infallible ſymptoms of Spiritual Life: <hi>For
+<pb n="6" facs="tcp:43928:7"/>
+by this we know that we are paſſed from Death to Life, becauſe we love the Brethren,</hi> Joh. 1.3, 4. In which words, by <hi>(the Brethren)</hi> I humbly conceive ſuch, and all ſuch, and none but ſuch, as have received the Faith of the Goſpel, and did publickly profeſs, and piouſly practiſe it, according as they had received from the Apoſtles, <hi>how they ought to walk and to pleaſe God;</hi> and ſo were Diſciples of the Crucified Jeſus, abſtractedly conſidered, without any relation to their being of <hi>Paul,</hi> or <hi>Apollo,</hi> or <hi>Cephas,</hi> according as ſome did moſt uncharitably and factiouſly diſcri<g ref="char:EOLhyphen"/>minate themſelves, 1 <hi>Cor.</hi> 3.4. which Love to the Brethren, as ſuch was then, is now, and for ever will be an infallible ſign of paſſing from Death to Life.</p>
+            <p>Now, may the God of Life and Love, which brought again our Lord Jeſus Chriſt from the Dead, (out of his boundleſs Love to his Church) perſwade us all in this divided Age, to be like-minded one towards another, and to<g ref="char:EOLhyphen"/>wards
+<pb n="7" facs="tcp:43928:7"/>
+all that fear God, and work Righteouſneſs, of what Opinion ſoever we are, in leſſer Points of Chriſtianity: But while one judgeth, another deſpi<g ref="char:EOLhyphen"/>eth; while one ſaith and ſwaggereth, I am of <hi>Apollo,</hi> another I am of <hi>Paul,</hi> another I am of <hi>Cephas,</hi> we are all carnal, and talk and walk as Men; <hi>For the Kingdom of God is not in theſe things, but in Righteouſneſs, and Peace, and Joy in the Holy Ghoſt,</hi> Ro. 14.17. And the ſame Apoſtle tells us, as plainly as words can ſpeak, <hi>That Circumciſion is nothing, nor <g ref="char:V">Ʋ</g>ncircumciſion, but a new Creature:</hi> And that as many as walk according to that Rule, <hi>viz.</hi> that do not make Chriſtianity to be in one or the other, but in the Change and turn of the whole man to God, which (as that Holy Man of God, Arch-Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> hath long ſince told us) is <hi>the new Creature:</hi> Peace ſhall be to them, even that Peace (which our Church teacheth us to pray for in one of her excellent Collects) which the World cannot give, even <hi>the Peace of God, which paſſeth all <g ref="char:V">Ʋ</g>nderſtanding.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:43928:8"/>Moreover, this vital Principle of Spiritual life and love, is that only, that makes us Chriſtians indeed; <hi>For if any Man hath not the Spirit of Chriſt, he is none of his,</hi> Ro. 8.9.</p>
+            <p>This doth not only incline the Soul to God, and to good Men, who bear the Reflexions of his Holy Nature, but like<g ref="char:EOLhyphen"/>wiſe to the ſincere Obedience of his Will and Law; invigorating all the Powers and Faculties of their Minds, in all their Operations and Motions; in<g ref="char:EOLhyphen"/>lightning their Underſtandings, by <hi>turning them from Darkneſs to Light, and from Satans Power to God;</hi> delightfully incli<g ref="char:EOLhyphen"/>ning their Wills to Goodneſs; turning their natural enmity into love; fulfilling that Prophetical Goſpel-Promiſe, <hi>To make his People a willing People in the Day of his Power,</hi> Pſal. 110.3. and according as our Saviour in his moſt Heavenly form hath taught us to Pray, <hi>Thy will be done in Earth, as it is in Heaven,</hi> even with that Readi<g ref="char:EOLhyphen"/>neſs and Alacrity, that Delight and
+<pb n="9" facs="tcp:43928:8"/>
+Complacency, that the Angels and glo<g ref="char:EOLhyphen"/>rified Saints do it with in Heaven, and as He did it when he was in the World, <hi>Whoſe Meat and Drink it was to do the Will of him that ſent him.</hi>
+            </p>
+            <p>This divine Principle brings the Soul into a divine frame, and Goſpel Temper, making it to be in ſome good meaſure of that Heavenly Spirit that our Bleſſed Redeemer was of when he was upon Earth. And therefore he tells his Diſci<g ref="char:EOLhyphen"/>ples, <hi>Ye are not of the World, but I have taken you out of the World: If you were of the World, the World would love its own; but becauſe you are not of the World, therefore the World hateth you,</hi> Joh. 15.19. Ye are not of the Tem<g ref="char:EOLhyphen"/>per and Spirit of the World: The firſt Man is of the Earth, earthy, and ſpeaketh of the Earth; but the ſecond Man is the Lord from Heaven, heavenly, and as is the Heavenly, ſuch are they alſo that are Heavenly; their Converſations are in Heaven, and their Hearts are where their Treaſures are; they look and live above.
+<pb n="10" facs="tcp:43928:9"/>
+Inviſibles are to them the greateſt Rea<g ref="char:EOLhyphen"/>lities; they antedate the Joys of Heaven: <hi>Faith is</hi> (to them) <hi>the Subſtance of things hoped for, the Evidence of things not ſeen,</hi> Heb. 11.1. They perſevere, as having <hi>a reſpect to the recompence of the Reward, and as ſeeing him that is Inviſible, whom having not ſeen</hi> (as the Apo<g ref="char:EOLhyphen"/>ſtle ſays) <hi>with their bodily eyes, yet believing on him, are filled with Joy unſpeakable and full of Glory.</hi>
+            </p>
+            <p>This makes Men eaſy to themſelves, in bringing forth the fruits of the Spirit, which are <hi>Meekneſs</hi> and <hi>Temperance, Love,</hi> and <hi>Joy,</hi> and <hi>Peace, Long Suffering, Gentleneſs, Goodneſs,</hi> and <hi>Faith; againſt ſuch there is no Law,</hi> Gal. 5.22. having by the power of the divine Spirit overcome the cor<g ref="char:EOLhyphen"/>ruptions of their Nature, which made them mighty uneaſie to themſelves; but now, where the Spirit of divine Life and Love dwells, there are theſe divine and bleſſed Fruits, which make Men eaſy in, and to themſelves, by giving them the Victory over all their turbulent and
+<pb n="11" facs="tcp:43928:9"/>
+diſquieting Paſſions, ſetting up the Intel<g ref="char:EOLhyphen"/>lectual &amp; Rational power in its due place, reducing the Man to <hi>himſelf,</hi> and unto <hi>God,</hi> which is a mighty point when obtained.
+<q>
+                  <l>Fortior eſt qui ſe, quam qui tutiſſima vincit</l>
+                  <l>Moenia.—</l>
+               </q>
+which, to Tranſlate the Poet by the Pro<g ref="char:EOLhyphen"/>phet, is, <hi>He that overcometh his own Spirit, is as he that taketh a City.</hi>
+            </p>
+            <p>So much have our Corruptions and Paſſions got the aſcendant of our Reaſons, in this our lapſed State, that the Prophet calls ſuch <hi>the Beaſt of the People:</hi> And 'tis not improbable that they were ſuch <hi>Beaſts</hi> with whom St. <hi>Paul</hi> fought at <hi>Epheſus,</hi> 1 Cor. 15. which he in another place, calls <hi>unreaſonable Men.</hi>
+            </p>
+            <p>
+               <hi>Finally, Brethren, pray for us, that we may be delivered from unreaſonable and wicked Men,</hi> 2 Theſ. 3.1, 2. where unreaſonable and wicked Men are put together, becauſe all Wickedneſs is unreaſonable, 'tis the very extremity of Madneſs and Folly.</p>
+            <p>
+               <pb n="12" facs="tcp:43928:10"/>And this doth not only make Men eaſy to themſelves, but to all others: How eaſily are ſuch Men Govern'd by the Laws of Civil Government, (which are all grounded upon Reaſon) who make their own Reaſon to govern them<g ref="char:EOLhyphen"/>ſelves? To them (as the Apoſtle calls the moral Law) the Law may be as a School-maſter to inſtruct, and now and then to correct ſome miſtakes that muſt be allowed for the Frailty of human Nature, but it can never be a Judge to Condemn them; for, as where there is no Law, there is no Tranſgreſſion; ſo where there is no Tranſgreſſion, there can be no Puniſhment: There is there<g ref="char:EOLhyphen"/>fore, ſaith St. <hi>Paul, No Condemnation to them that are in Chriſt Jeſus, who walk not after the fleſh, but after the Spirit; for the Law of the Spirit of Life in Chriſt Jeſus hath made me free from the Law of Sin and Death.</hi>
+            </p>
+            <p>This Spirit of holy Life and Love, makes all good Men, fit for all humane Converſation in this World.</p>
+            <p>
+               <pb n="13" facs="tcp:43928:10"/>All the Commotions and Troubles, not only within our Selves, but within our Houſes, our Towns and Cities, our King<g ref="char:EOLhyphen"/>dom and our Church, proceed from our unſubdu'd Corruptions, our Pride and Covetouſneſs, our Revenge and Malice, and the like. <hi>From whence come Warrings and Fightings among you? Come they not from hence, even from your Luſts, that War in your Members? For ye Luſt, and have not; ye Kill, and deſire to have, and cannot obtain,</hi> Jam. 4.1, 2. As much as if St. <hi>James</hi> had ſaid, <hi>By theſe rampant and reigning Luſts of yours, you make all the miſchief in the World, and when you have done all, you get nothing by it.</hi>
+            </p>
+            <p>And then, how fit theſe good Men are for all humane Societies and Govern<g ref="char:EOLhyphen"/>ment, who have, by the power of divine Grace, mortified theſe Luſts of their Members, which make all the Troubles and Confuſions in the lower World, you may eaſily Judge: And therefore, let Brotherly love continue among us, (my Dear Friends) that we may be what we
+<pb n="14" facs="tcp:43928:11"/>
+are all Born for, <hi>viz.</hi> a Bleſſing to our ſelves, and to the beſt of Governments we live under, and the beſt of Churches we are Members of.</p>
+            <p>This is the very Spirit and Life of Chriſtian Religion, which as St. <hi>James</hi> ſaith, chap. 3. ver. 15. <hi>Is not earthly, ſenſual, and deviliſh,</hi> but the contrary, <hi>divine, hea<g ref="char:EOLhyphen"/>venly, and ſpiritual, coming from above:</hi> A <hi>Religion, or Wiſdom,</hi> which is all one, (for Religion is the higheſt Wiſdom) that hath infinite Love for its Author and End, that gives Spiritual Laws to govern the Hearts and Spirits of Men. Mens Words and Actions fall under the Cognizance of human Laws, theſe are things, as <hi>Job</hi> ſaith, <hi>To be tryed by the Judge;</hi> but the thoughts, and imaginations of the Heart, fall under the cognizance of the Spiritual Law of the God of Spirits, <hi>who will Judge the ſecrets of all Men according to his Goſpel.</hi>
+            </p>
+            <p>A Religion that exalts and perfects Mans Nature, that gives him true Underſtanding, Power and Goodneſs;
+<pb n="15" facs="tcp:43928:11"/>
+and that, as Sin hath ras'd out and defaced the Image of God, impreſt upon his Divinely created Soul, this reprints it there, and reſtores him again in ſome good meaſure to his pure &amp; Paradiſiacal State; <hi>According as his divine Power hath given unto us all things that pertain unto Life and Godlineſs, through the knowledge of him that hath called us to Glory and Vertue; whereby are given unto us exceeding great and precious Promiſes, that by theſe you might be partakers of the divine Nature, having eſcaped the Corrup<g ref="char:EOLhyphen"/>tion that is in the World through Luſt,</hi> 2 Pet. chap. 1. verſ. 3, 4.</p>
+            <p>This is the fulfilling of the whole Law, <hi>Thou ſhalt love the Lord thy God with all thy Heart, and with all thy Soul, and with all thy Might. This is the firſt and great Commandment, and the ſecond is like unto it, Thou ſhalt Love thy Neighbour as thy ſelf. On theſe two Command<g ref="char:EOLhyphen"/>ments hang all the Law and the Prophets,</hi> Mat. 22.37, 38, 39, 40. Love worketh all Obedience to God, and ſincere Obe<g ref="char:EOLhyphen"/>dience is the greateſt demonſtration of
+<pb n="16" facs="tcp:43928:12"/>
+our Love to him: <hi>If you love me, keep my Commandments.</hi>
+            </p>
+            <p>He that loveth God with all his Heart, will never own another God beſides him; much leſs will he make to himſelf any graven Image, or the likeneſs of any thing that is in Heaven or Earth; For, <hi>whereunto will you liken me ſaith the Lord?</hi>
+            </p>
+            <p>He that loveth God truly, will wor<g ref="char:EOLhyphen"/>ſhip him in Truth and Spirit; for he is an infinite, glorious, and incomprehenſible Spirit; and therefore <hi>he will be Worſhiped in Spirit and Truth,</hi> Joh. 4.24. All Worſhip that is not Spiritual, of what Mode or Scheme ſoever it is, is no more than the cuting off a <hi>Dog's Neck,</hi> or the offering of <hi>Swines Blood:</hi> nay, though it be ſuch as God himſelf hath commanded, as to the matter of it: <hi>To what purpoſe is the multitude of your Sacrifices to me, ſaith the Lord: I am full of the Burnt Offerings of Rams, and the fat of fed Beaſts, and I delight not in the blood of Bullocks, or of Lambs, or of He-Goats,</hi> &amp;c.
+<pb n="17" facs="tcp:43928:12"/>
+               <hi>When you come to appear before me, who hath required this at your hand to tread my Courts? Bring no more vain Oblations, Incenſe is an abomination unto me, the New-Moons and Sab<g ref="char:EOLhyphen"/>baths,</hi> (though I have bid you remember to keep them Holy) <hi>are abomination to me, the calling of the Aſſemblies, I cannot away with, it is Iniquity, even the ſolemn Meeting. The New Moons, and your appointed Feaſts, my Soul hateth;</hi> (ſpeaking after the manner of Men) <hi>they are a Trouble to me, I am weary to bear them,</hi> Iſai. 1.11, 12, 13, 14.</p>
+            <p>He that worſhips God truly, thinks it highly reaſonable to give Him a Worſhip ſuitable to his own bleſſed Nature; not only as to the matter, but alſo as to the manner of his Worſhip: And therefore he ſtrives, and wraſtles; he fights, and runs; he is <hi>Fervent in Siprit, ſerving the Lord,</hi> Rom. 12.11.</p>
+            <p>He that loveth God truly, will never lightly uſe or Prophane his Great Name, neither any of his Divine Attributes, which are himſelf, nor his Word or Works.</p>
+            <p>
+               <pb n="18" facs="tcp:43928:13"/>He that loveth God truly, will honour every thing that hath any relation to, or beareth any reflexion of his Holineſs, eſpecially his Holy Day, which becauſe of the extraordinary Holineſs that God hath impreſt upon it, is Prefac'd with a <hi>Remember; Remember to keep Holy the Sabbath Day;</hi> not only in the external performance of external Worſhip, but in ſecret Prayer, Meditation, Self-Examination, Holy Conferences, and Spiritual Anhelations, in which, the Souls of good Men have a moſt Heavenly Communion, and Fellow<g ref="char:EOLhyphen"/>ſhip with God the Father, and with his Son Jeſus Chriſt: <hi>That which we have ſeen and heard declare we unto you, that you alſo may have Fellowſhip with us: And truly our Fellow<g ref="char:EOLhyphen"/>ſhip is with the Father, and with his Son Jeſus Chriſt.</hi> The moral part of this Precept is, to keep one Day in ſeven in this Hea<g ref="char:EOLhyphen"/>venly Work; and where this is done, it kindles ſuch a ſacred fire upon the Altar of the Heart, that burns from Sabbath to Sabbath, which was lively typified by the
+<pb n="19" facs="tcp:43928:13"/>
+Fire upon the Altar, under the <hi>Jewiſh</hi> Oeconomy, and is always attended with all the Bleſſings of this Life: <hi>If thou turn away thy foot from the Sabbath, from doing thy Pleaſure on my Holy-Day, and call the Sabbath a Delight, the Holy of the Lord, Honourable, and ſhalt honour him, not doing thine own Ways, nor finding thine own Pleaſure, nor ſpeaking thine own Words: Then ſhalt thou delight thy ſelf in the Lord, and I will cauſe thee to ride upon the high places of the Earth, and feed thee with the Heritage of Jacob thy Father, Iſa.</hi> 58.13, 14. The Glory of our Law, and of his Day too, Sir <hi>Matthew Hales</hi> tells us, in his <hi>Me<g ref="char:EOLhyphen"/>ditations,</hi> 
+               <q>That when he had been careful in the Work of this day, he did obſerve that all his Buſineſs the Week following did well ſucceed; but when he had made a fault in this, he ſoon found it in that.</q>
+            </p>
+            <p>He that loveth his Neighbour, cannot but love his Father and Mother, in the firſt place, and give unto all Men, eſpecially to the King, and all that be in Authority,
+<pb n="20" facs="tcp:43928:14"/>
+that Duty and Obedience, that is due to them in their ſeveral places and rela<g ref="char:EOLhyphen"/>tions; <hi>giving Honour, to whom Honour; Fear, to whom Fear is due.</hi>
+            </p>
+            <p>He that loveth his Neighbour as him<g ref="char:EOLhyphen"/>ſelf, can never have or harbour any Malice or Hatred in his heart againſt him; much leſs will he defile his Bed, or defraud him in his Eſtate, or go beyond him in any matter.</p>
+            <p>And he that loveth God with all his Heart, and his Neighbour as himſelf, doth good to himſelf too; for all Goodneſs and Vertue reflects it ſelf upon him that hath it; like an Echo, bringing back the Voice to the ear of him that ſpake it. Every good Work that a good Man doth gives him that inward Comfort of Mind that the World knows nothing of, and ſtrangers do not meddle with, whereby he receives much more good than he does: <hi>In keeping of thy Commandments there is great reward,</hi> Pſal. 19.11. Were there no ſuch thing as a Heaven, to reward good
+<pb n="21" facs="tcp:43928:14"/>
+Men; or a Hell, to puniſh bad, it were ſtill worth while to live well, and to do good, to have the preſent comfort of it in this World; for, <hi>all the ways of Wiſdom are Peace, and her Paths are Pleaſantneſs,</hi> which all good Men do experience, better than they can expreſs it. No Man can tell, ſo well as he can taſt, how ſweet Honey is; therefore, ſaith the Pſalmiſt, <hi>Thy Command<g ref="char:EOLhyphen"/>ments are ſweeter to me than the Honey, and the Honey Comb,</hi> Pſal. 19.10. <hi>Come, taſt, and ſee how good the Lord is:</hi> Truth leaves a Spiritual guſt upon the Underſtanding, which doth mightily influence and in<g ref="char:EOLhyphen"/>cline the Will to every thing that is good; and as Truth is the Object of the one, ſo Goodneſs is the Object of the other, both which do moſt directly conduce to the Comfort and Happineſs of a rational Being in this World, as well as in that which is to come.</p>
+            <p>Hereby the Love of God is manifeſted to, and perfected in this good Man. <hi>Whoſo keepeth my Word, in him is the Love of
+<pb n="22" facs="tcp:43928:15"/>
+God perfected;</hi> that is, he ſurely loveth God, and is loved of God. Hereby we know that we are in God; <hi>For God is Love, and he that dwelleth in Love, dwelleth in God, and God in him.</hi> Hereby we dwell in light: <hi>He that dwelleth in Love, dwelleth in light,</hi> 1 Joh. 2.5, 10. He dwel<g ref="char:EOLhyphen"/>leth in the light of God's Favour; <hi>And in his Favour is Life,</hi> Pſal. 30. And in another place 'tis ſaid, <hi>That his Favour is better than Life, and infinitely better than all the Bleſſings of the lower World. There be many that ſay, Who will ſhew us any good? Lord, lift thou up the Light of thy Countenance upon us. Thou haſt put Gladneſs in my Heart, more than in the time when their Corn and their Wine increaſed,</hi> Pſal. 4.6, 7.</p>
+            <p>This only fits the Soul for the heavenly Light: <hi>Epaphras</hi> declaring the Love of the Spirit which was in the Church of <hi>Coloſs,</hi> Col. 1.7, 8. <hi>Bleſſed be God,</hi> (ſaith St. <hi>Paul) who hath made us meet to he parta<g ref="char:EOLhyphen"/>kers of the inheritance of the Saints in Light,</hi> ver. 12. Where the Soul is joyned to the
+<pb n="23" facs="tcp:43928:15"/>
+Church of the firſt born, to an in <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rable company of Angels, to the general Aſſembly of the Saints, to the Souls of Juſt Men made perfect, and to Jeſus the Mediator: All which are joyning in their unceſſant and uninterrupted Songs of Praiſe, Singing <hi>Hallelujah, Hallelujah, Hallelujah, to God, and to the Lamb that ſits upon the Throne,</hi> and are fill'd with all the fullneſs of God, and do for ever admire thoſe Treaſures of Light that are beyond them.</p>
+            <p>And as it fits the Soul for the Hea<g ref="char:EOLhyphen"/>venly World, ſo it fills it with Bowels of Love and Pity to our poor Brethren; for if this be not in us, the Love of God is not in us: <hi>If any Man ſay he loveth God and hateth his Brother, he is a Lyar: For he that loveth not his Brother, whom he hath ſeen, How can he love God, whom he hath not ſeen? And this Commandment have we from him, that he who loveth God, love his Brother alſo,</hi> 1. Joh. 4.21, 22.</p>
+            <p>
+               <pb n="24" facs="tcp:43928:16"/>How kindly doth our Bleſſed Saviour take what is done to his poor Members, <hi>Matth.</hi> 25.34. <hi>Come ye Bleſſed of my Father, in<g ref="char:EOLhyphen"/>herit the Kingdom prepared for you, from the Foundation of the World: For I was Hungry, and you gave me Meat; I was Thirſty, and you gave me Drink,</hi> &amp;c. <hi>Then ſhall the Righteous ſay, Lord, when ſaw we thee Hungry, and fed thee; Thirſty, and gave thee Drink,</hi> &amp;c. Then ſhall the King ſay unto them, <hi>Verily I ſay unto you, in as much as you have done it unto one of the leaſt of theſe my Brethren, you have done it unto me.</hi> And therefore, let me beſeech you, my Brethren, to give to Him in his Members, who gave Himſelf for you, not his Name only, nor his Body, but his Soul too, for that was made <hi>An Offering for Sin,</hi> Iſa. 53.10. Which was the greateſt Gift that God could give, or the World could receive, and who is now Praying for you at the Right hand of his Father, to give you a Crown, a Kingdom, and a weight of Glory.</p>
+            <p>
+               <pb n="25" facs="tcp:43928:16"/>And if we act like Men, poſſeſſed by true Charity, ſuiting with the Spirit of Chriſtianity, our Hearts and Hands muſt be always open to our poor Brothers Neceſſities; our Souls muſt take pleaſure in doing Good, and being Kind: And if we are not able to redreſs their Grie<g ref="char:EOLhyphen"/>vances, or relieve their Wants, by our Wealth, or Intereſt, we muſt eaſe them by our Compaſſion, comfort them by Holy Advice and Example, and ſuccour them by our Prayers.</p>
+            <p>Theſe are the Treaſures which good Men lay up in Heaven, <hi>Where neither Moths nor Ruſt doth Corrupt, nor Thieves break through, nor Steal;</hi> For this purpoſe, ſaith our Saviour, you have the Poor always with you, and whatſoever you will you may do unto them, and in ſo doing, you will well and truly obſerve thoſe Feaſts of Charity St. <hi>Jude</hi> ſpeaks of, <hi>ver.</hi> 12.</p>
+            <p>
+               <pb n="26" facs="tcp:43928:17"/>
+               <hi>Finally, Brethren, be all of one Mind, having Compaſſion one of another: Love as Brethren, be Pitiful, be Courteous, be of good Comfort, live in Peace; And the God of Love and Peace ſhall be with you all.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <pb facs="tcp:43928:17"/>
+            <head>Advertiſement.</head>
+            <p>WHereas there was lately Publiſhed an Erroneous Book, by one <hi>Zachary Houſell,</hi> who being Chriſtianly taken notice of, and preſented by the <hi>Grand Jury</hi> of <hi>Middleſex,</hi> as an <hi>Author</hi> of a moſt <hi>deteſtable Doctrine:</hi> And whereas the <hi>Author</hi> of this <hi>Sermon</hi> hath been moſt maliciouſly reported by many, and may poſſibly be believed by ſome, to be the ſame.</p>
+            <p>The <hi>Author</hi> hereof, to caſhier the ſaid malicious and ſcandalous <hi>Report,</hi> doth hereby declare, That he is not the ſame <hi>Man,</hi> neither did he ever believe any ſuch <hi>Doctrine</hi> as is therein maintained, nor any other, either different from, or contrary to, <hi>The Articles of the Church of England,</hi> as by Law Eſtabliſhed: Which ſaid <hi>Articles,</hi> the <hi>Author</hi> doth Weekly Explain to his <hi>Society,</hi> to keep them ſteady in this giddy Age.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
